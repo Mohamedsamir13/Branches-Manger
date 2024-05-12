@@ -1,7 +1,6 @@
 import 'package:get/get.dart';
 import 'package:untitled3/Data/localDataSource.dart';
 
-import 'package:get/get.dart';
 
 class BranchController extends GetxController {
   RxInt currentBranch = 0.obs;
